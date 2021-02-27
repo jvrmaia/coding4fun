@@ -1,0 +1,7 @@
+*.o
+*.pyc
+*.class
+*~
+*.swp
+*.suo
+.DS_Store
